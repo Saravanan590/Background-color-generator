@@ -1,0 +1,23 @@
+body{
+    widows: 100%;
+    font-size: medium;
+    color: rgba(0,0,0,.5);
+    font-weight: 700;
+    margin-top:10%;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.2cm;
+    background: linear-gradient(to right,#9932CC,#00ff00);
+}
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    letter-spacing: 0.1cm;
+    font-weight: 600;
+
+}
+input{
+    width:5%;
+}
